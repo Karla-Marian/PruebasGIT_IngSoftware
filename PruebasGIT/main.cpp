@@ -3,6 +3,11 @@
 
 using namespace std;
 
+void FuncionDaniella()
+{
+    cout << "\n\t:p \n";
+}
+
 void FuncionAngel()
 {
     cout << "\n\tMensaje de Angel Ramirez Castro para GIT\nHola\n";
@@ -26,5 +31,6 @@ int main()
     FuncionJuanPa();
     FuncionAngel();
     FuncionAline();    
+    FuncionDaniella();
     return 0;
 }
