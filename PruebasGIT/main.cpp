@@ -8,6 +8,11 @@ void FuncionAngel()
     cout << "\n\tMensaje de Angel Ramirez Castro para GIT\nHola\n";
 }
 
+void FuncionAline()
+{
+    cout << "\n\tMensaje \n";
+}
+
 void FuncionJuanPa()
 {
     string nombre;
@@ -20,5 +25,6 @@ int main()
 {
     FuncionJuanPa();
     FuncionAngel();
+    FuncionAline();    
     return 0;
 }
