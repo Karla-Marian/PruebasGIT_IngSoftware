@@ -2,7 +2,10 @@
 #include <string>
 
 using namespace std;
-
+Void FuncionKarla() 
+{
+    Cout<<"\n\t no\n";
+} 
 void FuncionDaniella()
 {
     cout << "\n\t:p \n";
@@ -32,5 +35,6 @@ int main()
     FuncionAngel();
     FuncionAline();    
     FuncionDaniella();
+    FunciónKarla();
     return 0;
 }
